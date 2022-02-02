@@ -3,3 +3,4 @@ task1 :direct push  done
 task2 : 
   from_remote modification done
   tip : now first pull from local then push
+ change 2 from local machine

@@ -5,3 +5,4 @@ task2 :
   tip : now first pull from local then push (chnge 2 from remote)
   now change 2 of local
   change 3 from remote
+  ch3 from local
